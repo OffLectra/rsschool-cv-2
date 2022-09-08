@@ -5,8 +5,9 @@
 ## Contacts:
 **discord:** Lectra#1823
 **telegram:** https://t.me/lectrara
+
 ## Target: 
-I want to be a great frontend-developer.
+I want to be a great frontend-developer. I like coding and get new knowledge.
 
 
 ## Skills:
