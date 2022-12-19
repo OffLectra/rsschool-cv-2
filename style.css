@@ -21,7 +21,7 @@ body {
     margin: 0 auto;
     /* overflow: hidden; */
     width: 100%;
-    min-width: 1000px;
+    min-width: 950px;
 }
 .wrapper {
     width: 95%;
@@ -133,6 +133,8 @@ h2 {
     border-radius: 50px;
     padding: 40px;
 }
+.photo-title {
+}
 .main__photo-block {
     position: absolute;
     width: 100%;
@@ -140,15 +142,15 @@ h2 {
 }
 .main__photo-block__photo-box {
     position: relative;
-    
-    width: 100%;
-    height: 100%;
+    width: 220px;
+    height: 220px;
     border-radius: 50%;
     background: url('images/me.JPG');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     overflow: hidden;
+    margin: 0 auto;
 }
 .main__photo-block__photo-box__img {
     /* height: auto;
